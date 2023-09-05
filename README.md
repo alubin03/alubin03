@@ -3,7 +3,7 @@
 
 ## Hi there 👋, I'm Amanda
 
-I'm a pursuing a degree in information technology with a minor in cybersecurity. From programming to networking to security, I have a broad knowledge of IT and always eager to learn more!!!📚
+I'm a pursuing a degree in information technology with a minor in cybersecurity. Experienced in setting up home lab environments, with a passion for implementing security solutions. From programming to networking to security I have a broad knowledge of IT and always eager to learn more!!!📚
 
 # About Me/ Skills
 🖥️**Windows Server:** AD,DNS,DHCP,GPO
