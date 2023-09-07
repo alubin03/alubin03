@@ -27,7 +27,7 @@ As an enthusiastic IT learner, I constantly challenge myself to enhance my skill
 
 Top 3 projects i've worked on or currently working on: 
 
- Vulnerbility Scanning W/ OpenVAS: ...
+ Malware Analysis Lab: https://github.com/alubin03/Malware_Anaysis_Lab#malware-analysis-lab
 
  Active Directory Lab: https://github.com/alubin03/AD#active-directory-lab
 
