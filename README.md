@@ -36,4 +36,4 @@ All Projects here: https://github.com/alubin03/internship-projects#cyber-securit
 
 This platform provides a variety of virtual environments for testing and improving my skills in areas such as network security, vulnerability scanning, and incident response. By utilizing TryHackMe's challenges and labs, I am able to build a strong foundation in defensive security practices that will prove useful in my career. 
 
-[![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=alubin03)](https://github.com/Alubin03/github-readme-stats)
+[![Amanda'
