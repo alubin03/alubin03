@@ -34,6 +34,4 @@ Top 3 projects i've worked on or currently working on:
 All Projects here: https://github.com/alubin03/internship-projects#cyber-security-internship-project
 ## TryHackMe
 
-This platform provides a variety of virtual environments for testing and improving my skills in areas such as network security, vulnerability scanning, and incident response. By utilizing TryHackMe's challenges and labs, I am able to build a strong foundation in defensive security practices that will prove useful in my career. 
-
-[![Amanda'
+This platform provides a variety of virtual environments for testing and improving my skills in areas such as network security, vulnerability scanning, and incident response. By utilizing TryHackMe's challenges and labs, I am able to build a strong foundation in defensive security practices that will prove useful in my 
