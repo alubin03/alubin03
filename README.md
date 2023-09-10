@@ -25,7 +25,7 @@ I'm a pursuing a degree in information technology with a focus in cybersecurity.
 
 As an enthusiastic IT learner, I constantly challenge myself to enhance my skills through hands-on experience and home lab projects. Through my focus on Active Directory, vulnerability assessments and other projects, I am consistently building upon my technology skills and gaining practical knowledge in the field. My dedication to continuous improvement enables me to learn new things every day. 
 
-Top 3 projects i've worked on or currently working on: 
+Top projects i've worked on or currently working on: 
 
  Malware Analysis Lab: https://github.com/alubin03/Malware_Anaysis_Lab#malware-analysis-lab
 
@@ -34,4 +34,7 @@ Top 3 projects i've worked on or currently working on:
 All Projects here: https://github.com/alubin03/internship-projects#cyber-security-internship-project
 ## TryHackMe
 
-This platform provides a variety of virtual environments for testing and improving my skills in areas such as network security, vulnerability scanning, and incident response. By utilizing TryHackMe's challenges and labs, I am able to build a strong foundation in defensive security practices that will prove useful in my 
+This platform provides a variety of virtual environments for testing and improving my skills in areas such as network security, vulnerability scanning, and incident response. By utilizing TryHackMe's challenges and labs, I am able to build a strong foundation in defensive security practices that will prove useful.
+
+Check out my blog: https://github.com/alubin03/TryHackMe#tryhackme
+
