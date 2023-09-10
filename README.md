@@ -1,15 +1,14 @@
 ![image](https://github.com/alubin03/portfolio/assets/141780397/5363687e-962b-45dd-b108-54accbfd81c3)
 
 
-## Hi there 👋, I'm Amanda
+## Hey Yall👋, I'm Amanda
 
 I'm a pursuing a degree in information technology with a focus in cybersecurity. Experienced in setting up home lab environments, with a passion for implementing security solutions. From programming to networking to security I have a broad knowledge of IT and always eager to learn more!!!📚
 
 # About Me/ Skills
 🖥️**Windows Server:** AD,DNS,DHCP,GPO
 🌐**Operating Systems:** Windows 10,11, Ubuntu, Kali Linux
-👌**Programming Language:** Basic knowledge in python
-🔨**Tools:** Splunk, Nmap, Nessus 
+🔨**Tools:** Splunk, Nmap, Nessus, Wireshark, Qualys
 📃**GRC:** NIST Framework
 
 - 🔭 I’m currently working on this page 
@@ -19,7 +18,7 @@ I'm a pursuing a degree in information technology with a focus in cybersecurity.
 - ⚡ Fun fact: I love romance novels 
 
 
-# Projects 
+# Projects and Professional Development
 
 ## Home Lab Projects
 
