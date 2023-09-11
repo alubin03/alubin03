@@ -31,9 +31,9 @@ Top projects i've worked on or currently working on:
  Active Directory Lab: https://github.com/alubin03/AD#active-directory-lab
 
 All Projects here: https://github.com/alubin03/internship-projects#cyber-security-internship-project
-## Self Study Plan/Cirriculum 
+## Self Study Cirriculum 
 
-I’ve created a self study planner/curriculum that includes identifying areas where I want to improve my skills and knowledge, setting specific and measurable goals, and creating a timeline for achieving those goals.
+I’ve created a self study curriculum that includes identifying areas where I want to improve my skills and knowledge, setting specific and measurable goals, and creating a timeline for achieving those goals.
 
 Throughout the process, I will regularly reflect on my progress, adjust my plan as needed, and share my insights and observations through blog posts and other documentation. By doing so, I hope to demonstrate my commitment to personal and professional growth!🌱
 
