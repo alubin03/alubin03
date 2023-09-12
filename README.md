@@ -27,7 +27,7 @@ Top projects i've worked on or currently working on:
 
  Malware Analysis Lab: https://github.com/alubin03/Malware_Anaysis_Lab#malware-analysis-lab
 
- https://github.com/alubin03/AD#active-directory-lab: https://github.com/alubin03/AD#active-directory-lab
+ Active Directory Lab: https://github.com/alubin03/AD#active-directory-lab
 
 ## Self Study Cirriculum 
 
