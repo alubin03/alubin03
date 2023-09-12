@@ -22,15 +22,13 @@ I'm a pursuing a degree in information technology with a focus in cybersecurity.
 
 ## Home Lab Projects
 
-As an enthusiastic IT learner, I constantly challenge myself to enhance my skills through hands-on experience and home lab projects. Through my focus on Active Directory, vulnerability assessments and other projects, I am consistently building upon my technology skills and gaining practical knowledge in the field. My dedication to continuous improvement enables me to learn new things every day. 
-
+As an enthusiastic IT learner, I constantly challenge myself to enhance my skills through hands-on experience and home lab projects. 
 Top projects i've worked on or currently working on: 
 
  Malware Analysis Lab: https://github.com/alubin03/Malware_Anaysis_Lab#malware-analysis-lab
 
- Active Directory Lab: https://github.com/alubin03/AD#active-directory-lab
+ https://github.com/alubin03/AD#active-directory-lab: https://github.com/alubin03/AD#active-directory-lab
 
-All Projects here: https://github.com/alubin03/internship-projects#cyber-security-internship-project
 ## Self Study Cirriculum 
 
 I’ve created a self study curriculum that includes identifying areas where I want to improve my skills and knowledge, setting specific and measurable goals, and creating a timeline for achieving those goals.
