@@ -41,5 +41,5 @@ Check out my blog: https://github.com/alubin03/TryHackMe#tryhackme
 ## Personal Growth equals Professional Development
 
 Designed a “Personal Growth and Professional Development Journal” to help individuals improve their skills and develop their careers. This journal offers a unique combination of reflective, goal-setting, and thought-provoking prompts, all tailor-made to inspire introspection, innovation, and continuous improvement. Within its pages, you will find an immersive journey of self-discovery that will not only enhance your professional growth but also deepen your personal fulfillment.
-
+📚
 Check it out on Amazon: https://a.co/d/gSLBdLc
